@@ -6,6 +6,12 @@ import java.io.PrintWriter;
 
 /**
  * Car Data Analysis: Project 3 Starter Code.
+ * 
+ * Allows user to input files of their choosing containing
+ * data regarding cars' brands, prices, years, and mileages,
+ * and the program can perform multiple types of analyses on  
+ * the inputted data set which be outputted to any file 
+ * of the user's choosing. 
  *
  * Gateway Programming: Java
  * Johns Hopkins University
